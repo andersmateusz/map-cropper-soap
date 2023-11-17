@@ -1,0 +1,6 @@
+[submodule "map-cropper-web-service"]
+	path = map-cropper-web-service
+	url = git@github.com:andersmateusz/map-cropper-web-service.git
+[submodule "map-cropper-android-client"]
+	path = map-cropper-android-client
+	url = git@github.com:andersmateusz/map-cropper-android-client.git
